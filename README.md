@@ -1,6 +1,6 @@
 
-## Hi there 👋, I'm Abu Taher Chowdhury
-#### Web Development Learner
+# Hi there 👋, I'm Abu Taher Chowdhury
+## Web Development Learner
 I am learning web development and trying to create something special.
 
 Skills:  HTML / CSS
