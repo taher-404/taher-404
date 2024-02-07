@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://web.facebook.com/photo/?fbid=310653405202695&set=a.105985459002825)
+(https://web.facebook.com/photo/?fbid=310653405202695&set=a.105985459002825)
 # Hi there 👋, I'm Abu Taher Chowdhury
 ## Web Development Learner
 I am learning web development and trying to create something special.
