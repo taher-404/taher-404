@@ -4,15 +4,7 @@
 
 
 # 💫 About Me:
-#### Hello! I'm Abu Taher Chowdhury, a passionate front-end developer learning and exploring web technologies. I love building responsive and interactive websites using HTML, CSS, and JavaScript. I am improving my skills and working on exciting projects to enhance my development journey.
-
-🔹 Learning: Front-End Development
-🔹 Skills: HTML, CSS, JavaScript
-🔹 Interests: UI/UX, Web Performance, Open Source
-
-Let's connect and build amazing things together! 🚀
-
-
+Hello! I'm Abu Taher Chowdhury, a passionate front-end developer learning and exploring web technologies. I love building responsive and interactive websites using HTML, CSS, and JavaScript. I am improving my skills and working on exciting projects to enhance my development journey.<br><br>🔹 Learning: Front-End Development<br>🔹 Skills: HTML, CSS, JavaScript<br>🔹 Interests: UI/UX, Web Performance, Open Source<br><br>Let's connect and build amazing things together! 🚀 I’m currently working on this page.
 
 
 ## 🌐 Socials:
@@ -25,11 +17,10 @@ Let's connect and build amazing things together! 🚀
 ![](https://github-readme-streak-stats.herokuapp.com/?user=taher-404&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=taher-404&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=taher-404&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
+[![](https://visitcount.itsvg.in/api?id=taher-404&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=taher-404&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->pi?username=taher-404&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=taher-404&icon=0&color=0)](https://visitcount.itsvg.in)
