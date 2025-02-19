@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
- Hello! I'm Abu Taher Chowdhury, a passionate front-end developer learning and exploring web technologies. I love building responsive and interactive websites using HTML, CSS, and JavaScript. I am improving my skills and working on exciting projects to enhance my development journey.
+#### Hello! I'm Abu Taher Chowdhury, a passionate front-end developer learning and exploring web technologies. I love building responsive and interactive websites using HTML, CSS, and JavaScript. I am improving my skills and working on exciting projects to enhance my development journey.
 
 🔹 Learning: Front-End Development
 🔹 Skills: HTML, CSS, JavaScript
