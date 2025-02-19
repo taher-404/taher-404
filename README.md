@@ -1,19 +1,18 @@
 ### Hi there 👋, I'm Abu Taher Chowdhury
 #### A passionate front end web developer from Bangladesh
-![A passionate front end web developer from Bangladesh](https://pbs.twimg.com/profile_banners/1780913759558701056/1713453394/600x200)
+![🚀 Front-End Developer | HTML, CSS, JavaScript Enthusiast](https://pbs.twimg.com/profile_banners/1780913759558701056/1713453394/600x200)
 
-Love to learn new skills. Now I'm learning JavaScript.
-
-Skills:  HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning JavaScript  
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/taher-404)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/its_taherchy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@AbuTaherCh63948)  
 
 # 💫 About Me:
- I’m currently working on this page.
+ Hello! I'm Abu Taher Chowdhury, a passionate front-end developer learning and exploring web technologies. I love building responsive and interactive websites using HTML, CSS, and JavaScript. Currently, I am improving my skills and working on exciting projects to enhance my development journey.
+
+🔹 Learning: Front-End Development
+🔹 Skills: HTML, CSS, JavaScript
+🔹 Interests: UI/UX, Web Performance, Open Source
+
+Let's connect and build amazing things together! 🚀
+
+
 
 
 ## 🌐 Socials:
