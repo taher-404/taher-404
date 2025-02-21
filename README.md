@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Abu Taher Chowdhury
 ### 🚀Front-End Developer | HTML, CSS, JavaScript Enthusiast
-![🚀 Front-End Developer | HTML, CSS, JavaScript Enthusiast](https://pbs.twimg.com/profile_banners/1780913759558701056/1713453394/600x200)
+![🚀 Front-End Developer | HTML, CSS, JavaScript Enthusiast](https://github.com/harun181/harun181/blob/main/code.png)
 
 
 # 💫 About Me:
